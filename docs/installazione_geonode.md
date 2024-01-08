@@ -24,7 +24,7 @@ apt install docker.io docker-compose python3.10-venv
 git clone https://github.com/GeoNode/geonode-project.git -b 4.1.x
 ```
 
-Dopodiché, è possibile attivare il virtual environment, ed installare la versione richiesta di Django
+Dopodiché è possibile attivare il virtual environment, ed installare la versione richiesta di Django
 
 ```bash
 python3 -m venv ./.venvs/geonodefull
